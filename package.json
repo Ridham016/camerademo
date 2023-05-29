@@ -1,0 +1,17 @@
+{
+  "name": "cordova-plugin-camerademo",
+  "version": "1.0.0",
+  "description": "open camera and click picture",
+  "cordova": {
+    "id": "cordova-plugin-camerademo",
+    "platforms": [
+      "android"
+    ]
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "author": "Ridham Kanauji",
+  "license": "ISC"
+}
